@@ -1,0 +1,17 @@
+[
+  { "name": "C.P.E. Bach", "birth": 1714, "death": 1788 },
+
+  { "name": "Franz Joseph Haydn", "birth": 1732, "death": 1806 },
+
+  { "name": "Antonio Salieri", "birth": 1750, "death": 1825 },
+
+  { "name": "Muzio Clementi", "birth": 1752, "death": 1832 },
+
+  { "name": "Wolfgang Amadeus Mozart", "birth": 1756, "death": 1791 },
+
+  { "name": "Ludwig Van Beethoven", "birth": 1770, "death": 1827 },
+
+  { "name": "Niccolo Paganini", "birth": 1782, "death": 1840 },
+
+  { "name": "Franz Schubert", "birth": 1797, "death": 1828 }
+]

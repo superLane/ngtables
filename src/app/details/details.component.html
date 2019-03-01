@@ -1,0 +1,12 @@
+<h4>Table</h4>
+<table>
+  <tr>
+    <th *ngFor="let header of headers">{{ header }}</th>
+  </tr>
+  <tr *ngFor="let person of people">
+    <td>{{ person.name }}</td>
+    <td>{{ person.birth }}</td>
+    <td>{{ person.death }}</td>
+    <td>{{ person.death - person.birth }}</td>
+  </tr>
+</table>
